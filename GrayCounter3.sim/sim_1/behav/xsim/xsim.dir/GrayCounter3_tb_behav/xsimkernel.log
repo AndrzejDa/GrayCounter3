@@ -1,0 +1,4 @@
+Running: xsim.dir/GrayCounter3_tb_behav/xsimk.exe -simmode gui -wdb GrayCounter3_tb_behav.wdb -simrunnum 0 -socket 50579
+Design successfully loaded
+Design Loading Memory Usage: 7288 KB (Peak: 7288 KB)
+Design Loading CPU Usage: 0 ms
