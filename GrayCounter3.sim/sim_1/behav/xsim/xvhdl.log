@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/XilinxProjekty/GrayCounter3/GrayCounter3.srcs/sources_1/new/GrayCounter3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'GrayCounter3'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/XilinxProjekty/GrayCounter3/GrayCounter3.srcs/sim_1/new/GrayCounter3_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'GrayCounter3_tb'
